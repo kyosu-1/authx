@@ -41,3 +41,9 @@
 - IANA: https://www.iana.org/
   - OAuth Parameters: https://www.iana.org/assignments/oauth-parameters/oauth-parameters.xhtml
   - JSON Web Token Claims: https://www.iana.org/assignments/jwt/jwt.xhtml
+
+## その他
+
+- 民間事業者向けデジタル本人確認ガイドライン: https://www.openid.or.jp/news/kyc_guideline_v1.0.pdf
+- ritouさんblog: https://ritou.hatenablog.com/
+- idm実験室(富士榮さん): https://idmlab.eidentity.jp/
